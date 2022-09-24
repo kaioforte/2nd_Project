@@ -1,5 +1,3 @@
-# 2nd_Project
-
 ## Trabalho referente a disciplina de Deep Learning do PPGEE UFPA.
 
 O Trabalho consistia na criação de um ambiente virtual para trabalhar com modelos de DL e uma solução de alguma competição do kaggle.</b>
